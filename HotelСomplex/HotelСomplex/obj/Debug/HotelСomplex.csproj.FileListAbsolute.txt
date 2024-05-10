@@ -1,0 +1,11 @@
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\bin\Debug\HotelСomplex.exe.config
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\bin\Debug\HotelСomplex.exe
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\bin\Debug\HotelСomplex.pdb
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.csproj.AssemblyReference.cache
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.Form1.resources
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.Properties.Resources.resources
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.csproj.GenerateResource.cache
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.csproj.CoreCompileInputs.cache
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.exe
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.pdb
+D:\Susny\Hotel-complex\HotelСomplex\HotelСomplex\obj\Debug\HotelСomplex.Menu.resources
